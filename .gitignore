@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+raw_data/
+data/*.csv
+
+model/saved_model/model.safetensors
+.env
